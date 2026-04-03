@@ -12,7 +12,8 @@ This tool performs a three-step synchronization process:
 ## Requirements
 
 - Python 3.x
-- Required dependencies (check `requirements.txt` if available)
+- [python-mutagen](https://github.com/quodlibet/mutagen)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - Modules: `utils`, `fetch_ids`, `sync_files`, `rename_files`
 
 ## Installation
